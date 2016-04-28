@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Info.plist</key>
+		<data>
+		1cERewgXggsMJT6lq1gHPtqMR5A=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/MacOS/applet</key>
+		<data>
+		ULd68DwwUxwT6Zn65YaL3M3wzNk=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/PkgInfo</key>
+		<data>
+		lP2+4+c0ot84/Wi+SDfo/vBm8AU=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/Scripts/main (Sasha's conflicted copy 2012-06-16).scpt</key>
+		<data>
+		s5wsJSajV/zJwlVCdr6HR775NP0=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/Scripts/main.scpt</key>
+		<data>
+		gwLglbASW+4EjB4ocMPh4n5+Gqg=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/applet.icns</key>
+		<data>
+		ez5PTamwlWyQuVWOkt8E21jsVkw=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/applet.rsrc</key>
+		<data>
+		oD2Z+6wE3PscntyB8n8bnmWyZNg=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/description.rtfd/TXT.rtf</key>
+		<data>
+		9vi+k3Lt46IWzuEGueA1DrHuK48=
+		</data>
+		<key>Resources/Scripts/checkModifierKeys</key>
+		<data>
+		AVAlNmp9vZCMJxHaR+Zg2QBNGeg=
+		</data>
+		<key>Resources/Scripts/main.scpt</key>
+		<data>
+		34LuvX9220KmLCWPzhAZmM0hTz4=
+		</data>
+		<key>Resources/Scripts/minibroom.scpt</key>
+		<data>
+		ghnBmNFjYo5hiixbbNc4SXT5zMU=
+		</data>
+		<key>Resources/applet.icns</key>
+		<data>
+		vtcdatFyH95u3gHhRikdFKbVuuo=
+		</data>
+		<key>Resources/applet.rsrc</key>
+		<data>
+		yAQgDXYP/MFC7oz7qNXqWKATZAg=
+		</data>
+		<key>Resources/description.rtfd/TXT.rtf</key>
+		<data>
+		nDrhA9CJHASzdLu9/Cq7fCESWLk=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Info.plist</key>
+		<data>
+		1cERewgXggsMJT6lq1gHPtqMR5A=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/MacOS/applet</key>
+		<data>
+		ULd68DwwUxwT6Zn65YaL3M3wzNk=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/PkgInfo</key>
+		<data>
+		lP2+4+c0ot84/Wi+SDfo/vBm8AU=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/Scripts/main (Sasha's conflicted copy 2012-06-16).scpt</key>
+		<data>
+		s5wsJSajV/zJwlVCdr6HR775NP0=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/Scripts/main.scpt</key>
+		<data>
+		gwLglbASW+4EjB4ocMPh4n5+Gqg=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/applet.icns</key>
+		<data>
+		ez5PTamwlWyQuVWOkt8E21jsVkw=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/applet.rsrc</key>
+		<data>
+		oD2Z+6wE3PscntyB8n8bnmWyZNg=
+		</data>
+		<key>Resources/Scripts/Broomstick Menubar Icon Orderer.app/Contents/Resources/description.rtfd/TXT.rtf</key>
+		<data>
+		9vi+k3Lt46IWzuEGueA1DrHuK48=
+		</data>
+		<key>Resources/Scripts/checkModifierKeys</key>
+		<data>
+		AVAlNmp9vZCMJxHaR+Zg2QBNGeg=
+		</data>
+		<key>Resources/Scripts/main.scpt</key>
+		<data>
+		34LuvX9220KmLCWPzhAZmM0hTz4=
+		</data>
+		<key>Resources/Scripts/minibroom.scpt</key>
+		<data>
+		ghnBmNFjYo5hiixbbNc4SXT5zMU=
+		</data>
+		<key>Resources/applet.icns</key>
+		<data>
+		vtcdatFyH95u3gHhRikdFKbVuuo=
+		</data>
+		<key>Resources/applet.rsrc</key>
+		<data>
+		yAQgDXYP/MFC7oz7qNXqWKATZAg=
+		</data>
+		<key>Resources/description.rtfd/TXT.rtf</key>
+		<data>
+		nDrhA9CJHASzdLu9/Cq7fCESWLk=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
